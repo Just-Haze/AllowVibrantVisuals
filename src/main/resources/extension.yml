@@ -1,0 +1,6 @@
+id: novibrantvisuals
+name: NoVibrantVisuals
+main: org.oryxel.novibrantvisuals.NoVibrantVisuals
+api: 2.7.0
+version: 1.0.0
+authors: [oryxel]
