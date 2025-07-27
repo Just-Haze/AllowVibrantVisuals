@@ -7,6 +7,6 @@ import org.geysermc.geyser.api.extension.Extension;
 public class NoVibrantVisuals implements Extension {
     @Subscribe
     public void onSessionLoadResourcePacks(SessionLoadResourcePacksEvent event) {
-        event.allowVibrantVisuals(false);
+        event.allowVibrantVisuals(true);
     }
 }
