@@ -1,2 +1,2 @@
-# NoVibrantVisuals
-Forcefully turn off vibrant visuals for GeyserMC.
+# AllowVibrantVisuals
+Forcefully turn on vibrant visuals for GeyserMC.
